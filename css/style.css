@@ -542,6 +542,7 @@ header .container .ser-sho .shop .shop-box .times {
 }
 .blogs .container .blog-box {
     border: 1px solid #333;
+    margin-top: 1px;
 }
 .blogs .container .image {
     overflow: hidden;
