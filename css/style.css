@@ -613,6 +613,7 @@ footer .container .copy-r {
     font-size: 18px;
     font-weight: 400;
     margin-bottom: 20px;
+    text-align: center;
 }
 footer .container .copy-r a {
     color: var(--main-color);
